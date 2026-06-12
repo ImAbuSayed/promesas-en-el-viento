@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-en-el-viento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Promesas en el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-en-el-viento/) |
+| **Get License** | [Music Rights & Licensing for Promesas en el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-en-el-viento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `26a53a10046d01cc7978a99e31e4958379e0294f59398ce5c02bb51d29502fb1` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

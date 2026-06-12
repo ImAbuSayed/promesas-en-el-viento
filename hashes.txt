@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Promesas en el viento
+
+This log tracks the cryptographic history and versioning for the song **Promesas en el viento** (promesas-en-el-viento).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:28:01.705694 | `v1` | `26a53a10046d01cc7978a99e31e4958379e0294f59398ce5c02bb51d29502fb1` | `b2a0949c9a4b09dcde2b76201672d4eaa8bb06830c7fa8d694cb02569120a604` | `2026-06-13_promesas-en-el-viento-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
