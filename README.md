@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/promesas-en-el-viento/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Promesas en el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-en-el-viento/) |
+| **Get License** | [License this song: Promesas en el viento](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/promesas-en-el-viento/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me avisa que la noche no acaba
+> Tengo el motor listo y la ruta marcada
+> Dime qué es lo que quieres, no lo dejes pa' luego
+> Que esta noche tú y yo vamo' a jugar con fuego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
